@@ -24,19 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am MERN stack developer"
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Language:  C, C++ , JavaScript",
+  "Front-end Technologies: HTML5 , CSS , React.js , Redux , Bootstrap , TailwindCss ",
+  "Back-end Technologies: Node.js , Express.js ",
+  "Databases: MongoDB , Mongoose ",
+  " Version Control: Git , GitHub "
 ];
 
 /**
@@ -45,8 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "Highly skilled MERN Stack Developer with a strong foundation in MongoDB, Express.js, React.js, and Node.js. Experienced in developing scalable web applications and APIs with a focus on performance, security, and user experience."
 const About = () => {
   return (
     <section className="padding" id="about">
@@ -66,7 +63,7 @@ const About = () => {
         <ul
           style={{
             textAlign: "left",
-            columns: 2,
+            columns: 1,
             fontSize: "1.25rem",
             margin: "2rem 3rem",
             gap: "3rem",

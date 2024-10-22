@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Job Shop",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "**JobShop** is a fully responsive job portal built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). It connects job seekers with employers, allowing users to create profiles, post jobs, and apply for listings. ",
+    url: "https://job-portal-68n1.onrender.com"
   },
   {
-    title: "Web Development for Beginners",
+    title: "Simon Says Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The Simon Says Game is an interactive web application built with HTML, CSS, and JavaScript, offering a modern twist to the classic memory and pattern recognition game.",
+    url: "https://github.com/Mohit081/Simon-Says-Game",
   },
   {
-    title: "My Resume Site",
+    title: "Spotify Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Spotify clone is a web application that replicates the user interface of the popular music streaming service, Spotify. Developed using HTML and CSS, this project aims to showcase fundamental front-end development skills .",
+    url: "https://github.com/Mohit081/spotifyclone",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Videotube",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Videotube is a youtube backend clone. it working like youtube you can login, signup , upload video , find video",
+    url: "https://github.com/Mohit081/backend-project",
   },
 ];
 
